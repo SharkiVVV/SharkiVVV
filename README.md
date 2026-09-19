@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-Hi, I'm Alexander Martynenko
+Hi, I'm Aleksander Martynenko
 </h1>
 
 
@@ -42,6 +42,7 @@ At present I see myself  as cross platform application developer.
 ![Avalonia](https://img.shields.io/badge/Avalonia%20UI-black?style=for-the-badge&logo=avaloniaui&logoSize=30px&color=8b00ff)
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=8A2BE2)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&color=8A2BE2)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
@@ -51,10 +52,3 @@ At present I see myself  as cross platform application developer.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-##  GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharkiVVV&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SharkiVVV&layout=compact&theme=tokyonight)
-
