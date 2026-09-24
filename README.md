@@ -52,3 +52,9 @@ At present I see myself  as cross platform application developer.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Activity:**
+<p align="left">
+  <img height="200"
+       src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=SharkiVVV&accent=131921&cell=circle&hide_border=true"/>
+</p>
